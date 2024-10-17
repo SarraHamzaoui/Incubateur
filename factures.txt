@@ -1,0 +1,8 @@
+ID Facture : 1
+Prix Total : 3
+Payee : non payable
+---------------------------
+ID Facture : 2
+Prix Total : 5
+Payee : non payable
+---------------------------
